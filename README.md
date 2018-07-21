@@ -1,8 +1,8 @@
 # internship-onibus
-internship
+Internship Work In collabration with Onibus Technologies NIT Patna.
 # Project Title
 
-One Paragraph of project description goes here
+One website using basic HTML5,CSS,JavaScript for a school under startup of Onibus Technologies pvt Ltd. At NIT Patna.
 
 ## Getting Started
 
@@ -10,10 +10,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them?
 
 ```
-Give examples
+Well it is very easy:)
+just open the Index.html file in thr root folder to see the website.
 ```
 
 ### Installing
@@ -60,27 +61,24 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* 
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+* 
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+(https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Abhijeet Saraf** - *Initial work* -(https://github.com/starboy21)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+**Ankit Anand**
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPU License.
 
 ## Acknowledgments
 
