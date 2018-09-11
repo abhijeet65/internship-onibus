@@ -71,7 +71,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Abhijeet Saraf** - *Initial work* -(https://github.com/starboy21)
+* **Abhijeet Saraf** - *Initial work* -(https://starboy21.github.io/internship-onibus/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 **Ankit Anand**
